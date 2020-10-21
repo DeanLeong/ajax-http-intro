@@ -84,7 +84,7 @@ Let's take a look at some API resources.
 
 Be aware of API services such as [RapidAPI](https://rapidapi.com/) that have you enter a your credit card to access. 
 
-### Example APIs: Note many of these are advanced API's not recommended for beginners.
+### Example APIs: Note some of the API's are more advanced and not recommended for your first project.
 
 #### Music
 
